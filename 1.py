@@ -1,5 +1,1 @@
-a = 1
-#change in dev
-#lovely boss
-hahahahaha
-wowwowowowowowowowowow
+import numpy as np

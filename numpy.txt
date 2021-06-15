@@ -1,5 +1,18 @@
 import numpy as np
-
-np.shape()
-np.size()
-np.idiom（）
+array = np.array()
+1.nump属性
+几维 array.ndim
+array.shape 形状 几行几列 
+array.size 多少个元素
+2.创建array
+np.zeros((3,4))
+np.ones((3,4))
+np.empty((3,4)) 几乎接近为0
+np.arange(1,12,2)
+np.arange(12).reshape((3,4))
+np.linspace(1,10,5) 5段的数列
+np.random.random((3,4))
+3基础运算
+** chengfang
+三角函数运行 np.sin(a)
+矩阵乘法：np.dot(a,b)
